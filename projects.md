@@ -1,5 +1,5 @@
 
-# Capstone Project Proposal
+# Capstone Project Proposal 1
 
 The goal of this project is to identify the factors most closely tied to the borrowers’ risk of default and to determine if other variables such as occupation, purpose of the loan, loan duration and loan amount effect the expected performance of the loan.
 
@@ -17,3 +17,16 @@ The intended client would be smaller lenders that are interested in expanding th
 ## Data
 
 The data has been provided by lendingclub.com and includes a listing of all of their loans and their performance since 2004 consisting of well over 100,000 loans
+
+
+# Capstone Project proposal 2
+
+In the wake of the mortgage crisis of the last recession, I want to determine if banks take longer to foreclose on homes that are underwater then they do on homes that they will fully recover their principle from. 
+
+##  The Problem
+
+The object of this project is to make foreclosure a more predictable process by determining if the amount of money owed relative to the value of the collateral has an effect on how long the foreclosure process will take.  specifically, do banks take longer the more they are going to have to write down after a foreclosure sale.
+
+## Client
+
+The client is for this project would be any foreclosure professionals particularly on the defnesive side looking for more information to help their cases and for potential borrowers entering the foreclosure process to know what to expect.  
